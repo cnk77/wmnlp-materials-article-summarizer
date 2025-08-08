@@ -1,3 +1,8 @@
+# Final Project for Web Mining and Applied NLP 44-620
+
+## Kyle Hudson (https://github.com/cnk77/wmnlp-materials-article-summarizer)
+
+
 # Final Project: Article Summarizer
 
 Complete the tasks in the Python Notebook in this repository.
